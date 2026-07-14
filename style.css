@@ -109,5 +109,34 @@ p{
 }
 .linkedin-img:hover,.github-img:hover{
     transform: scale(0.9);
+}
+.sec-1-1{
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+}
+.sec-1-2{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.sec-1-2-1 img{
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 50%;
+}
+.sec-1-2-2-2{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
 
 }
+
